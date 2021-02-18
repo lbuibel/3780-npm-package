@@ -22,7 +22,7 @@ module.exports = function profitPercentage(retail, wholesale) {
 }
 
 module.exports = function discountPrice(price, discountPercent) {
-    let d = discountPercent / 100
+    let d = 1 - (discountPercent / 100)
     total = price * d
     return total
 }

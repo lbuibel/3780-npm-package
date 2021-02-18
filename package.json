@@ -1,6 +1,6 @@
 {
-    "name": "@loganuibel/dgm3780",
-    "version": "0.0.1",
+    "name": "@luibel/dgm3780",
+    "version": "1.0.0",
     "description": "Sales Calculator function library",
     "main": "index.js",
     "scripts": {
