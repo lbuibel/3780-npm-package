@@ -4,6 +4,23 @@
 
 <br>
 
+## Getting started
+After installing the packing using:
+```
+npm i @luibel/dgm3780
+```
+You'll want to import the module in your javascript file by including this at the top of your file:
+```
+// exa:
+
+const lib = require('@luibel/dgm3780')
+
+let example = lib.discountPrice(100, 20) // equals 80
+```
+<br>
+
+## Included Functions
+
 #### 1) Calculating Margin:
 ---
 
